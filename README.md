@@ -1,3 +1,7 @@
+<a target="_blank" href="https://colab.research.google.com/github/Alan-oliveir/previsao_cartao_fidelidade/blob/main/Projeto_01.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Previsao de compra: cartao fidelidade companhia aérea.
 Projeto de ciência de dados para previsão de plano de fidelidade para clientes de uma companhia aérea. Desenvolvido nas aulas do Projeto 01 da Comunidade DS. 
 
